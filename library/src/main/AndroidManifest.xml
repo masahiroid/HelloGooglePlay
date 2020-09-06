@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"    
+	package="x8d4ME2FW8">
+
+    <application android:allowBackup="true">
+    </application>
+    <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true" />
+
+</manifest>
